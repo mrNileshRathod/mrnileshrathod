@@ -59,6 +59,6 @@
 <p align="center"><i><b>Connecct with me on</b></i><br><br>
 <a href="https://www.linkedin.com/in/mr-nileshrathod/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="40" width="40" /></a>
 <a href="https://www.instagram.com/_mr_nileshrathod/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="40" width="40" /></a>
-</p>
+</p><br><br>
 
 Credits: [Nilesh Rathod](https://github.com/mrnileshrathod)
