@@ -2,7 +2,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/mrNileshRathod/mrnileshrathod/blob/main/gif/Hi.gif" width="35px"></h2>
   <img src="https://github.com/mrNileshRathod/mrnileshrathod/blob/main/gif/c.gif" width="500px" height="250px"><br><br><br>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+Delevoper!;I'm+a+Java+Developer...;I'm+intrested+in+Machine+Learning;And+I'm+also+intrested+in+Data+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+Delevoper!;I'm+a+Java+Developer+...;I+love+Machine+Learning+....;I+love+Data+Science+....;)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
