@@ -13,19 +13,21 @@
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data .
   </em> 
   <br><br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="70" /> <b><i align="center">Thought : "THINK TWICE... CODE ONCE!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="70" />
-</p><hr>
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "THINK TWICE... CODE ONCE!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="70" />
+</p><br>
 
 <!-- About Section -->
 <img align="right" width=150px height=180px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" />&nbsp;***About me....***
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp;***About me ....***
+
 ✔ I love **programming** 😊<br>
 ✔ I’m currently learning about **machine learning** 🥰<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
 
-<!-- Tool Section -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp;f
+<!-- Tool Section --> 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp;***My working tools...***
 <p align="left">
   <code> <img src="https://img.icons8.com/color/50/000000/c-programming.png"> </code> 
   <code> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"> </code>
@@ -37,7 +39,7 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"> </code>
- </p> <br>
+ </p>
 <hr>
 
 <!-- Git Stat Section -->
