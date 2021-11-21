@@ -44,22 +44,21 @@
 
 <!-- Git Stat Section -->
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40" height="40" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrnileshrathod&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrnileshrathod&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40" height="40" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrnileshrathod&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrnileshrathod&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
+<hr>
 
 <!-- Git Trophy Section -->
-<hr>
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" height="30" />&nbsp;<i><b>Git profile Trophies</b></i></p><br>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" height="30" />&nbsp;<b>Git profile Trophies</b></p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=mrnileshrathod&theme=juicyfresh&no-bg=true" />
 <hr>
 
 <!-- Follow me section -->
-<p align="center">
-<i><b>Connecct with me on</b></i><br><br>
+<p align="center"><i><b>Connecct with me on</b></i><br><br>
 <a href="https://www.linkedin.com/in/mr-nileshrathod/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="40" width="40" /></a>
 <a href="https://www.instagram.com/_mr_nileshrathod/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="40" width="40" /></a>
 </p>
-<hr>
+
 Credits: [Nilesh Rathod](https://github.com/mrnileshrathod)
