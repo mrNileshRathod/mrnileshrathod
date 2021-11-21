@@ -1,14 +1,14 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/mrNileshRathod/mrnileshrathod/blob/main/gif/Hi.gif" width="35px"></h2>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"><br><br>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+Delevoper!;I'm+a+Java+Developer+...;I+love+Machine+Learning+....;I+love+Data+Science+....;)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
   <p align="center">
-<a href="https://www.linkedin.com/in/mr-nileshrathod/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="https://www.instagram.com/_mr_nileshrathod/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mr-nileshrathod/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="40" width="40" /></a>
+<a href="https://www.instagram.com/_mr_nileshrathod/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="40" width="40" /></a>
 </p>
 </div>
 
