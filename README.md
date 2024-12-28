@@ -8,9 +8,9 @@
 <!-- Discription Section -->
 <p align="center">
   <em>
-    Hello, I am Nilesh Rathod <img src="https://github.com/mrNileshRathod/mrnileshrathod/blob/main/gif/smart.gif" width="25px">a <b>final year</b> undergraduate from <b>PRMIT&R .</b><br>
+    Hello, I am Nilesh Rathod
     I'm <b>passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Data science</b> and always looking to find patterns of which are hidden in the data .
+    with <b>Software Development</b> and always looking to find patterns of which are hidden in the complex requirements.
   </em> 
   <br><br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "THINK TWICE... CODE ONCE!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="70" />
